@@ -2,7 +2,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)](https://forthebadge.com)
 
 ## Overview
-Daily Reads is a fast, simple and intuitive feed aggregator. Add news from your favourite websites and customize your daily reading experience.
+Daily Reads is a fast, simple and intuitive feed aggregator. Add your favourite websites and customize your daily reading experience. Be informed, stay up to date all in one place!
 
 ![Screenshot](Daily%20Reads/Preview%20Content/Preview%20Assets.xcassets/screenshot.imageset/Daily%20Reads.png)
 
