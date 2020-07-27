@@ -4,7 +4,7 @@
 ## Overview
 Daily Reads is a fast, simple and intuitive feed aggregator. Add news from your favourite websites and customize your daily reading experience.
 
-![Screenshot](screenshot.png)
+![Screenshot](Daily%20Reads/Preview%20Content/Preview%20Assets.xcassets/screenshot.imageset/Daily%20Reads.png)
 
 ## How to Contribute
 Contributions are always welcome. Please take the following steps for your commit.
