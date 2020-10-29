@@ -1,4 +1,4 @@
-<img src="https://github.com/caalar/.github/blob/master/badge.png" align="right"/>
+<img src="/.github/blob/master/badge.png" align="right"/>
 
 #  Daily Reads
 [![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)](https://forthebadge.com)
