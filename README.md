@@ -1,4 +1,4 @@
-<img src="/.github/blob/master/badge.png" align="right"/>
+<img src="https://github.com/ycaglar/.github/blob/master/badge150.png" align="right"/>
 
 #  Daily Reads
 [![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)](https://forthebadge.com)
@@ -14,5 +14,5 @@ Contributions are always welcome. Please take the following steps for your commi
 1- Fork this project to your account <br>
 2- Create a branch for the change you are proposing <br>
 3- Apply changes to your fork <br>
-4- Send a pull request after refering to the **[contributing guidelines](https://github.com/caalar/.github/blob/master/CONTRIBUTING.md)** <br>
+4- Send a pull request after refering to the **[contributing guidelines](https://github.com/ycaglar/.github/blob/master/CONTRIBUTING.md)** <br>
 
